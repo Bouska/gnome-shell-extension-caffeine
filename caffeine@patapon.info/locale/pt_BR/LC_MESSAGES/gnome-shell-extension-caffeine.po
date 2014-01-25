@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell-extension-caffeine\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-09 15:32+0100\n"
+"POT-Creation-Date: 2014-01-25 10:49+0100\n"
 "PO-Revision-Date: 2013-03-28 10:48-0300\n"
 "Last-Translator: Junior Polegato <linux@juniorpolegato.com.br>\n"
 "Language-Team: Spanish\n"
@@ -17,35 +17,38 @@ msgstr ""
 "X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: ../../..\n"
 
-#: ../../../extension.js:222
+#: caffeine@patapon.info/extension.js:224
 msgid "Caffeine enabled"
 msgstr "Caffeine ativado"
 
-#: ../../../extension.js:228
+#: caffeine@patapon.info/extension.js:243
 msgid "Caffeine disabled"
 msgstr "Caffeine desativado"
 
-#: ../../../prefs.js:40
+#: caffeine@patapon.info/prefs.js:45
 msgid "Show Caffeine in top panel"
 msgstr "Mostrar Caffeine no painel superior"
 
-#: ../../../prefs.js:57
+#: caffeine@patapon.info/prefs.js:62
+msgid "Enable when a fullscreen application is running"
+msgstr ""
+
+#: caffeine@patapon.info/prefs.js:79
 msgid "Enable notifications"
 msgstr "Ativar as notificações"
 
-#: ../../../prefs.js:64
+#: caffeine@patapon.info/prefs.js:100
 msgid "Applications which enable Caffeine automatically"
 msgstr "Aplicativos que ativam o Caffeine automaticamente"
 
-#: ../../../prefs.js:80
+#: caffeine@patapon.info/prefs.js:116
 msgid "Add application"
 msgstr "Adicionar aplicativo"
 
-#: ../../../prefs.js:94
+#: caffeine@patapon.info/prefs.js:130
 msgid "Create new matching rule"
 msgstr "Criar nova regra"
 
-#: ../../../prefs.js:98
+#: caffeine@patapon.info/prefs.js:134
 msgid "Add"
 msgstr "Adicionar"
-

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell-extension-caffeine\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-06 14:18+0100\n"
+"POT-Creation-Date: 2014-01-25 10:49+0100\n"
 "PO-Revision-Date: 2013-01-06 14:18+0100\n"
 "Last-Translator: Jean-Philippe Braun <eon@patapon.info>\n"
 "Language-Team: French\n"
@@ -16,37 +16,41 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ../../..\n"
 
-#: ../../../prefs.js:41
-msgid "Show Caffeine in top panel"
-msgstr "Afficher Caféine dans le panneau supérieur"
-
-#: ../../../prefs.js:57
-msgid "Enable notifications"
-msgstr "Activer les notifications"
-
-#: ../../../prefs.js:78
-msgid "Applications which enable Caffeine automatically"
-msgstr "Applications qui activent Caféine automatiquement"
-
-#: ../../../prefs.js:94
-msgid "Add application"
-msgstr "Ajouter une application"
-
-#: ../../../prefs.js:108
-msgid "Create new matching rule"
-msgstr "Nouvelle règle"
-
-#: ../../../prefs.js:112
-msgid "Add"
-msgstr "Ajouter"
-
-#: ../../../extension.js:227
+#: caffeine@patapon.info/extension.js:224
 msgid "Caffeine enabled"
 msgstr "Caféine est activé"
 
-#: ../../../extension.js:233
+#: caffeine@patapon.info/extension.js:243
 msgid "Caffeine disabled"
 msgstr "Caféine est désactivé"
+
+#: caffeine@patapon.info/prefs.js:45
+msgid "Show Caffeine in top panel"
+msgstr "Afficher Caféine dans le panneau supérieur"
+
+#: caffeine@patapon.info/prefs.js:62
+msgid "Enable when a fullscreen application is running"
+msgstr ""
+
+#: caffeine@patapon.info/prefs.js:79
+msgid "Enable notifications"
+msgstr "Activer les notifications"
+
+#: caffeine@patapon.info/prefs.js:100
+msgid "Applications which enable Caffeine automatically"
+msgstr "Applications qui activent Caféine automatiquement"
+
+#: caffeine@patapon.info/prefs.js:116
+msgid "Add application"
+msgstr "Ajouter une application"
+
+#: caffeine@patapon.info/prefs.js:130
+msgid "Create new matching rule"
+msgstr "Nouvelle règle"
+
+#: caffeine@patapon.info/prefs.js:134
+msgid "Add"
+msgstr "Ajouter"
 
 #~ msgid "Application"
 #~ msgstr "Application"
