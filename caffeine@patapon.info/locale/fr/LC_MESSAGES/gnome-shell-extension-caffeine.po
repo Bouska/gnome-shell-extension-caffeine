@@ -1,10 +1,13 @@
+# Jean-Philippe Braun <eon@patapon.info>, 2013
+# Pablo Martin-Gomez <pablomg@eskapa.be>, 2014
+
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-shell-extension-caffeine\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-25 10:49+0100\n"
-"PO-Revision-Date: 2013-01-06 14:18+0100\n"
-"Last-Translator: Jean-Philippe Braun <eon@patapon.info>\n"
+"PO-Revision-Date: 2014-01-25 11:19+0100\n"
+"Last-Translator: Pablo Martin-Gomez <pablomg@eskapa.be>\n"
 "Language-Team: French\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -12,8 +15,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-Basepath: .\n"
-"Plural-Forms: nplurals=2; plural=(n>1)\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: ../../..\n"
 
 #: caffeine@patapon.info/extension.js:224
@@ -30,7 +34,7 @@ msgstr "Afficher Caféine dans le panneau supérieur"
 
 #: caffeine@patapon.info/prefs.js:62
 msgid "Enable when a fullscreen application is running"
-msgstr ""
+msgstr "Activer lorsqu'une application s’exécute en plein écran"
 
 #: caffeine@patapon.info/prefs.js:79
 msgid "Enable notifications"
